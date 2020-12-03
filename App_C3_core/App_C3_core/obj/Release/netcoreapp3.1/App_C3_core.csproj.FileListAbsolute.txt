@@ -1,0 +1,12 @@
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.exe
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.deps.json
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.runtimeconfig.json
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.dll
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\bin\Release\netcoreapp3.1\App_C3_core.pdb
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.AssemblyInfo.cs
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.dll
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.pdb
+C:\Users\gabri\Desktop\C#\App_C3_core\App_C3_core\obj\Release\netcoreapp3.1\App_C3_core.genruntimeconfig.cache
